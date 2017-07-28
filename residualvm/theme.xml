@@ -13,7 +13,7 @@
                    <origin>0 0</origin>
                    <pos>0 0</pos>
                    <size>1 1</size>
-                   <path>./_inc/images/background.png</path>
+                   <path>./_inc/background.png</path>
                 </image>
 	</view>
 
