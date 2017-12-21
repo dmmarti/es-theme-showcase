@@ -160,9 +160,9 @@ version         1.0
          <origin>0.5 0.5</origin>
          <pos>0.547 0.314</pos>
          <maxSize>0.24 0.34</maxSize>
-         <delay>0.01</delay>
+         <delay>1.00</delay>
          <showSnapshotNoVideo>true</showSnapshotNoVideo>
-         <showSnapshotDelay>false</showSnapshotDelay>
+         <showSnapshotDelay>true</showSnapshotDelay>
       </video>
       <image name="md_marquee">
          <pos>0.748 0.19</pos>
